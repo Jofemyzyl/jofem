@@ -1,0 +1,29 @@
+body{
+    background-image: url(cover.jpg);
+    background-size: cover;
+}
+ul{
+    margin-left:23%;
+}
+li{
+    color:FF6C22;
+    display: inline-block;
+    margin: 5%;
+    font-size:30;
+}
+
+   h1{
+    color:2B3499;
+    font-family: "<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Agbalumo&display=swap" rel="stylesheet">;
+    font-size: 80;
+   }
+p{
+    color:FF6C22;
+    font-size:33;
+}
+    
+div {
+    text-align: center;
+}    
